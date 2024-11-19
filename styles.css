@@ -38,14 +38,14 @@ body {
 }
 
 .title {
-	font-size: 2.5em; /* Більший розмір для заголовка */
+	font-size: 2.3em; /* Більший розмір для заголовка */
 	font-weight: 700;
 	color: #ffe066; /* Золотий відтінок */
 	text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.2); /* Легка тінь */
 }
 
 .subtitle {
-	font-size: 1.5em;
+	font-size: 1.3em;
 	margin-top: -10px;
 	color: #ffffff; /* Чистий білий текст */
 	text-shadow: 1px 1px 6px rgba(0, 0, 0, 0.2); /* Легка тінь */
@@ -53,7 +53,7 @@ body {
 
 .message {
 	margin-top: 20px;
-	font-size: 1.2em;
+	font-size: 1em;
 	line-height: 1.8;
 	color: #fdfdfd; /* Світло-білий */
 	text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.1); /* Легка тінь для читабельності */
